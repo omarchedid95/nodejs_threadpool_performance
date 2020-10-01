@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_threadpool_performance",
+  "version": "1.0.0",
+  "description": "The code in this repository is related to the following medium article:",
+  "main": "asynchronous.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarchedid95/nodejs_threadpool_performance.git"
+  },
+  "author": "Omar Chedid",
+  "license": "ISC",
+  "dependencies": {
+    "execution-time": "^1.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/omarchedid95/nodejs_threadpool_performance/issues"
+  },
+  "homepage": "https://github.com/omarchedid95/nodejs_threadpool_performance#readme"
+}
